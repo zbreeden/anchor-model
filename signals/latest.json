@@ -1,17 +1,17 @@
 {
-  "id": "2025-09-10T20:00:00Z-anchor-broadcast-seed",
-  "ts_utc": "2025-09-10T20:00:00Z",
-  "date": "2025-09-10",
-  "module": "The Anchor",
-  "repo": "anchor-model",
-  "title": "Master star broadcast seed initialized",
-  "summary": "Bootstrapped constellation broadcasting: schema, nightly pulse, and Signal renderer.",
-  "tags": ["broadcasting", "schema", "renderer", "pulse"],
-  "rating": "high",
+  "id": "20250923T022821Z-anchor-model-genesis",
+  "ts_utc": "2025-09-23T02:28:21Z",
+  "date": "2025-09-23",
+  "module": "Anchor Model",
+  "repo": "anchor-model", 
+  "title": "New constellation star initialized",
+  "summary": "Generated module scaffold with seedset distribution and basic broadcast structure.",
+  "tags": ["genesis", "scaffold", "module", "ancillary-operations"],
+  "rating": "normal",
   "origin": {
-    "name": "The Anchor",
+    "name": "Anchor Model",
     "url": "https://zbreeden.github.io/anchor-model/",
-    "emoji": "⚓️"
+    "emoji": "⚓"
   },
   "links": {
     "readme": "https://github.com/zbreeden/anchor-model#readme",
@@ -20,7 +20,10 @@
     "runbook": "https://github.com/zbreeden/anchor-model/blob/main/RUNBOOK.md"
   },
   "payload": {
-    "notes": "This is the top-level aggregator in The Anchor. Nightly pulse pulls latest.json from each star."
+    "orbit": "ancillary-operations",
+    "status": "seed", 
+    "module_key": "anchor_model",
+    "notes": "Initial scaffold created by new-module.sh script. Ready for customization and development."
   },
   "checksum": "",
   "version": "1.0.0"
