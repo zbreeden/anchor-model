@@ -1,0 +1,26 @@
+{
+  "id": "20251022T003356Z-status_change",
+  "ts_utc": "2025-10-22T00:33:56Z",
+  "module": "Anchor Model",
+  "repo": "anchor-model",
+  "title": "Status Change",
+  "summary": "The Barycenter moved the gravity index to The Catalyst, and moved The Anchor back to seeded status to wait for further development.",
+  "rating": "high",
+  "origin": {
+    "name": "Anchor Model",
+    "url": "https://zbreeden.github.io/anchor-model/",
+    "emoji": "⚓️"
+  },
+  "status": "seed",
+  "links": {
+    "readme": "https://github.com/zbreeden/anchor-model#readme",
+    "page": "https://zbreeden.github.io/anchor-model/"
+  },
+  "payload": {
+    "module_key": "anchor_model",
+    "broadcast_key": "status_change",
+    "tags": [
+      "change"
+    ]
+  }
+}

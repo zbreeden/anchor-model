@@ -1,0 +1,89 @@
+[
+  {
+    "id": "20251015T141544Z-weekly_update",
+    "ts_utc": "2025-10-15T14:15:44Z",
+    "module": "Anchor Model",
+    "repo": "anchor-model",
+    "title": "Gravity Index Model",
+    "summary": "The Anchor introduces a gravity index, a metric that measures a star athlete's gravity index against the local economy when unavailable.  The Anchor has asked for development from The Developer.",
+    "rating": "high",
+    "origin": {
+      "name": "Anchor Model",
+      "url": "https://zbreeden.github.io/anchor-model/",
+      "emoji": "⚓️"
+    },
+    "status": "sprout",
+    "links": {
+      "readme": "https://github.com/zbreeden/anchor-model#readme",
+      "page": "https://zbreeden.github.io/anchor-model/"
+    },
+    "payload": {
+      "module_key": "anchor_model",
+      "broadcast_key": "weekly_update",
+      "tags": [
+        "model"
+      ]
+    }
+  },
+  {
+    "id": "20250925T193002Z-checking_in",
+    "ts_utc": "2025-09-25T19:30:02Z",
+    "module": "Anchor Model",
+    "repo": "anchor-model",
+    "title": "Checking In",
+    "summary": "The Anchor is checking in with the hub",
+    "rating": "normal",
+    "origin": {
+      "name": "Anchor Model",
+      "url": "https://zbreeden.github.io/anchor-model/",
+      "emoji": "⚓️"
+    },
+    "status": "seed",
+    "links": {
+      "readme": "https://github.com/zbreeden/anchor-model#readme",
+      "page": "https://zbreeden.github.io/anchor-model/"
+    },
+    "payload": {
+      "module_key": "anchor_model",
+      "broadcast_key": "checking_in",
+      "tags": [
+        "check_in"
+      ]
+    }
+  },
+  {
+    "id": "20250923T022821Z-anchor-model-genesis",
+    "ts_utc": "2025-09-23T02:28:21Z",
+    "date": "2025-09-23",
+    "module": "Anchor Model",
+    "repo": "anchor-model",
+    "title": "New constellation star initialized",
+    "summary": "Generated module scaffold with seedset distribution and basic broadcast structure.",
+    "tags": [
+      "genesis",
+      "scaffold",
+      "module",
+      "ancillary-operations"
+    ],
+    "rating": "normal",
+    "origin": {
+      "name": "Anchor Model",
+      "url": "https://zbreeden.github.io/anchor-model/",
+      "emoji": "⚓"
+    },
+    "links": {
+      "readme": "https://github.com/zbreeden/anchor-model#readme",
+      "page": "https://zbreeden.github.io/anchor-model/",
+      "data": "https://github.com/zbreeden/anchor-model/tree/main/signals",
+      "runbook": "https://github.com/zbreeden/anchor-model/blob/main/RUNBOOK.md"
+    },
+    "payload": {
+      "orbit": "ancillary-operations",
+      "status": "seed",
+      "module_key": "anchor_model",
+      "notes": "Initial scaffold created by new-module.sh script. Ready for customization and development."
+    },
+    "checksum": "",
+    "version": "1.0.0"
+  }
+]
